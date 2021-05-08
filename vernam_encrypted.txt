@@ -1,0 +1,18 @@
+------------------------------------Vernam Cipher ------------------------------------
+default key :SPARTANS 
+
+Original message : PXPTYRFJ
+Encrypted message: HMPKRRSB 
+
+Original message : FXGWYEAU
+Encrypted message: XMGNRENM 
+
+Original message : BBMHCXHP
+Encrypted message: TQMYVXUH 
+
+Original message : SVQMBZGJ
+Encrypted message: KKQDUZTB 
+
+Original message : PLIVFAJW
+Encrypted message: HAIMYAWO 
+

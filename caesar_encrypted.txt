@@ -1,0 +1,46 @@
+------------------------------------Caesar Cipher Cipher ------------------------------------
+-------plain text: dimtnywk--------
+Shift       : 3
+Cipher text : glpwqbzn
+Shift       : 6
+Cipher text : josztecq
+Shift       : 12
+Cipher text : puyfzkiw
+
+
+-------plain text: gcqrfxuv--------
+Shift       : 3
+Cipher text : jftuiaxy
+Shift       : 6
+Cipher text : miwxldab
+Shift       : 12
+Cipher text : socdrjgh
+
+
+-------plain text: fmjdkujf--------
+Shift       : 3
+Cipher text : ipmgnxmi
+Shift       : 6
+Cipher text : lspjqapl
+Shift       : 12
+Cipher text : ryvpwgvr
+
+
+-------plain text: yntgfsjx--------
+Shift       : 3
+Cipher text : bqwjivma
+Shift       : 6
+Cipher text : etzmlypd
+Shift       : 12
+Cipher text : kzfsrevj
+
+
+-------plain text: njvippvv--------
+Shift       : 3
+Cipher text : qmylssyy
+Shift       : 6
+Cipher text : tpbovvbb
+Shift       : 12
+Cipher text : zvhubbhh
+
+

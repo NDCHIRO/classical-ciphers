@@ -1,0 +1,37 @@
+------------------------------------Vigenere Cipher------------------------------------
+----------repeating mode----------
+
+default key is   PIE  for repeating mode
+Original message : mdampuaf
+Encrypted message: blebxypn 
+
+Original message : lemfazxf
+Encrypted message: amquidmn 
+
+Original message : njtealdb
+Encrypted message: crxtipsj 
+
+Original message : ozfidmge
+Encrypted message: dhjxlqvm 
+
+Original message : dbbadpez
+Encrypted message: sjfpltth 
+
+---------- auto mode----------
+
+default key is   AETHER  for auto mode
+Original message : mdampuaf
+Encrypted message: mhtttlaj 
+
+Original message : lemfazxf
+Encrypted message: lifmeqxj 
+
+Original message : njtealdb
+Encrypted message: nnmlecdf 
+
+Original message : ozfidmge
+Encrypted message: odyphdgi 
+
+Original message : dbbadpez
+Encrypted message: dfuhhged 
+
